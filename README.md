@@ -26,6 +26,6 @@
   <a href = "mailto:gabriela.tomestieler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-stieler-2b4b19200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GabrielaStieler)
+  ![Snake animation](https://github.com/GabrielaStieler/GabrielaStieler/blob/output/github-contribution-grid-snake.svg)
  
 </div>
