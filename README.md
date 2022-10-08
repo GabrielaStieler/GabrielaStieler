@@ -1,6 +1,6 @@
 ### Ooi, eu sou a Gabriela Stieler!! 👋
 
-- 📚 Atualmente tenho estudado bastante JS e MySQL, sempre procurando evoluir e me desafiar cada dia mais.
+- 📚 Atualmente tenho estudado JS e SQL, sempre procurando evoluir e me desafiar cada dia mais.
 - 📫 Contato: gabriela.tomestieler@gmail.com
 - 😄 Pronouns: ela/dela
 
