@@ -1,7 +1,6 @@
 ### Ooi, eu sou a Gabriela!! 👋
 
 - 📚 Atualmente estudo Ciência da Computação Bacharelado, sempre procuro evoluir e me desafiar cada dia mais.
-- 📫 Contato: gabriela.tomestieler@gmail.com
 
 <div align="center">
   <a href="https://github.com/GabrielaStieler">
