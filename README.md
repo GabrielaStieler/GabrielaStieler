@@ -9,9 +9,9 @@
 
 ### Olá, eu sou a Gabriela!
 
-Sou Desenvolvedora com experiência em automação de processos, análise de dados e desenvolvimento de soluções utilizando Power Platform (Power Apps, Power BI e Power Automate), além de Excel e VBA. Atuo no desenvolvimento de rotinas automatizadas com foco em eficiência operacional e melhoria de processos, construção de dashboards, tratamento e manipulação de dados.
+Sou Desenvolvedora com experiência em automação com foco em eficiência operacional e melhoria de processos, análise de dados e desenvolvimento de soluções utilizando Power Platform (Power Apps, Power BI e Power Automate), além de Excel e VBA.
 
-Atualmente curso Engenharia da Computação e sigo em constante evolução na área de desenvolvimento, com foco em aprimorar lógica de programação, boas práticas e estruturação de código. Tenho grande interesse em sempre aprender novas tecnologias, métodos e práticas. Gosto de desenvolver soluções organizadas, modulares e com foco na boa experiência do usuário.
+Atualmente curso Engenharia da Computação e sigo em constante evolução na área de desenvolvimento, com foco em aprimorar lógica de programação, boas práticas e estruturação de código. Gosto de desenvolver soluções organizadas, modulares e com foco na boa experiência do usuário.
 
 <b>Este repositório reúne projetos presentes na minha evolução técnica e prática ao longo da minha jornada.</b>
 
