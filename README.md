@@ -1,6 +1,6 @@
 ### Ooi, eu sou a Gabriela!! 👋
 
-- 📚 Atualmente estudo Ciência da Computação Bacharelado, sempre procuro evoluir e me desafiar cada dia mais.
+- 📚 Atualmente estudo Engenharia da Computação, sempre procuro evoluir e me desafiar cada dia mais.
 
 <div align="center">
   <a href="https://github.com/GabrielaStieler">
@@ -19,7 +19,6 @@
  
 <div> 
   <a href="https://www.instagram.com/gabs__ela/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/gabstranha" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriela.tomestieler@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-stieler-2b4b19200/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
