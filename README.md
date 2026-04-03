@@ -7,9 +7,13 @@
 
 ##
 
-### Ooi, eu sou a Gabriela!! 👋
+### Olá, eu sou a Gabriela!
 
-- 📚 Atualmente estudo Engenharia da Computação, sempre procuro evoluir e me desafiar cada vez mais.
+Sou Desenvolvedora com experiência em automação de processos, análise de dados e desenvolvimento de soluções utilizando Power Platform (Power Apps, Power BI e Power Automate), além de Excel e VBA. Atuo no desenvolvimento de rotinas automatizadas com foco em eficiência operacional e melhoria de processos, construção de dashboards, tratamento e manipulação de dados.
+
+Atualmente curso Engenharia da Computação e sigo em constante evolução na área de desenvolvimento, com foco em aprimorar lógica de programação, boas práticas e estruturação de código. Tenho grande interesse em sempre aprender novas tecnologias, métodos e práticas. Gosto de desenvolver soluções organizadas, modulares e com foco na boa experiência do usuário.
+
+<b>Este repositório reúne projetos presentes na minha evolução técnica e prática ao longo da minha jornada.</b>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
